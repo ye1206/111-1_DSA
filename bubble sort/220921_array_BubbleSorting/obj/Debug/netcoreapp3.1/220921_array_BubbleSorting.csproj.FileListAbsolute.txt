@@ -1,0 +1,17 @@
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_array_BubbleSorting\bin\Debug\netcoreapp3.1\220921_array_BubbleSorting.exe
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_array_BubbleSorting\bin\Debug\netcoreapp3.1\220921_array_BubbleSorting.deps.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_array_BubbleSorting\bin\Debug\netcoreapp3.1\220921_array_BubbleSorting.runtimeconfig.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_array_BubbleSorting\bin\Debug\netcoreapp3.1\220921_array_BubbleSorting.runtimeconfig.dev.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_array_BubbleSorting\bin\Debug\netcoreapp3.1\220921_array_BubbleSorting.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_array_BubbleSorting\bin\Debug\netcoreapp3.1\220921_array_BubbleSorting.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_array_BubbleSorting\obj\Debug\netcoreapp3.1\220921_array_BubbleSorting.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_array_BubbleSorting\obj\Debug\netcoreapp3.1\220921_array_BubbleSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_array_BubbleSorting\obj\Debug\netcoreapp3.1\220921_array_BubbleSorting.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_array_BubbleSorting\obj\Debug\netcoreapp3.1\220921_array_BubbleSorting.AssemblyInfo.cs
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_array_BubbleSorting\obj\Debug\netcoreapp3.1\220921_array_BubbleSorting.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_array_BubbleSorting\obj\Debug\netcoreapp3.1\220921_array_BubbleSorting.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_array_BubbleSorting\obj\Debug\netcoreapp3.1\220921_array_BubbleSorting.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_array_BubbleSorting\obj\Debug\netcoreapp3.1\220921_array_BubbleSorting.genruntimeconfig.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_array_BubbleSorting\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_array_BubbleSorting\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_array_BubbleSorting\obj\Debug\netcoreapp3.1\220921_array_BubbleSorting.csproj.CopyComplete
