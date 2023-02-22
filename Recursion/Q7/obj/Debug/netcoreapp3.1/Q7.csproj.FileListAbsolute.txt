@@ -1,0 +1,14 @@
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q7\bin\Debug\netcoreapp3.1\Q7.exe
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q7\bin\Debug\netcoreapp3.1\Q7.deps.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q7\bin\Debug\netcoreapp3.1\Q7.runtimeconfig.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q7\bin\Debug\netcoreapp3.1\Q7.runtimeconfig.dev.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q7\bin\Debug\netcoreapp3.1\Q7.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q7\bin\Debug\netcoreapp3.1\Q7.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q7\obj\Debug\netcoreapp3.1\Q7.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q7\obj\Debug\netcoreapp3.1\Q7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q7\obj\Debug\netcoreapp3.1\Q7.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q7\obj\Debug\netcoreapp3.1\Q7.AssemblyInfo.cs
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q7\obj\Debug\netcoreapp3.1\Q7.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q7\obj\Debug\netcoreapp3.1\Q7.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q7\obj\Debug\netcoreapp3.1\Q7.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q7\obj\Debug\netcoreapp3.1\Q7.genruntimeconfig.cache

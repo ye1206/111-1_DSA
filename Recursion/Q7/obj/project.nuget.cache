@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ARvtN0t6jbTbMXga442yKkqWGoIM/oKxmbW9FIXZZSieM0DLS8QG5L4HXFzInZnnwfwPbr2o/lfuwSZx3ehyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alice\\Desktop\\Sophomore\\Data Structure\\Q7\\Q7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
