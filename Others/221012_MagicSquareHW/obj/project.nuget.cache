@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TDoZ9rO029QM4V1+dlCrqagwOyAyOzLMVCOaX6TmX6MXUbHOdEwREPJ5bCsFJendVeIBKF22DWbHtoazDsNX4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alice\\Desktop\\Sophomore\\Data Structure\\221012_MagicSquareHW\\110213076_MagicSquare.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

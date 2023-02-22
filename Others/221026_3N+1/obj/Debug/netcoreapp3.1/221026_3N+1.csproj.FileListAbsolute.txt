@@ -1,0 +1,14 @@
+C:\Users\alice\Desktop\Sophomore\Data Structure\221026_3N+1\bin\Debug\netcoreapp3.1\221026_3N+1.exe
+C:\Users\alice\Desktop\Sophomore\Data Structure\221026_3N+1\bin\Debug\netcoreapp3.1\221026_3N+1.deps.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\221026_3N+1\bin\Debug\netcoreapp3.1\221026_3N+1.runtimeconfig.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\221026_3N+1\bin\Debug\netcoreapp3.1\221026_3N+1.runtimeconfig.dev.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\221026_3N+1\bin\Debug\netcoreapp3.1\221026_3N+1.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\221026_3N+1\bin\Debug\netcoreapp3.1\221026_3N+1.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\221026_3N+1\obj\Debug\netcoreapp3.1\221026_3N+1.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\221026_3N+1\obj\Debug\netcoreapp3.1\221026_3N+1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\Sophomore\Data Structure\221026_3N+1\obj\Debug\netcoreapp3.1\221026_3N+1.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\221026_3N+1\obj\Debug\netcoreapp3.1\221026_3N+1.AssemblyInfo.cs
+C:\Users\alice\Desktop\Sophomore\Data Structure\221026_3N+1\obj\Debug\netcoreapp3.1\221026_3N+1.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\221026_3N+1\obj\Debug\netcoreapp3.1\221026_3N+1.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\221026_3N+1\obj\Debug\netcoreapp3.1\221026_3N+1.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\221026_3N+1\obj\Debug\netcoreapp3.1\221026_3N+1.genruntimeconfig.cache
