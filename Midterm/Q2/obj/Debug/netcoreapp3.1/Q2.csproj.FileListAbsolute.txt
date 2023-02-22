@@ -1,0 +1,31 @@
+C:\Users\alice\Desktop\110213076_鄭鈺曄\Q2\bin\Debug\netcoreapp3.1\Q2.exe
+C:\Users\alice\Desktop\110213076_鄭鈺曄\Q2\bin\Debug\netcoreapp3.1\Q2.deps.json
+C:\Users\alice\Desktop\110213076_鄭鈺曄\Q2\bin\Debug\netcoreapp3.1\Q2.runtimeconfig.json
+C:\Users\alice\Desktop\110213076_鄭鈺曄\Q2\bin\Debug\netcoreapp3.1\Q2.runtimeconfig.dev.json
+C:\Users\alice\Desktop\110213076_鄭鈺曄\Q2\bin\Debug\netcoreapp3.1\Q2.dll
+C:\Users\alice\Desktop\110213076_鄭鈺曄\Q2\bin\Debug\netcoreapp3.1\Q2.pdb
+C:\Users\alice\Desktop\110213076_鄭鈺曄\Q2\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.dll
+C:\Users\alice\Desktop\110213076_鄭鈺曄\Q2\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.pdb
+C:\Users\alice\Desktop\110213076_鄭鈺曄\Q2\obj\Debug\netcoreapp3.1\Q2.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\110213076_鄭鈺曄\Q2\obj\Debug\netcoreapp3.1\Q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\110213076_鄭鈺曄\Q2\obj\Debug\netcoreapp3.1\Q2.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\110213076_鄭鈺曄\Q2\obj\Debug\netcoreapp3.1\Q2.AssemblyInfo.cs
+C:\Users\alice\Desktop\110213076_鄭鈺曄\Q2\obj\Debug\netcoreapp3.1\Q2.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\110213076_鄭鈺曄\Q2\obj\Debug\netcoreapp3.1\Q2.csproj.CopyComplete
+C:\Users\alice\Desktop\110213076_鄭鈺曄\Q2\obj\Debug\netcoreapp3.1\Q2.dll
+C:\Users\alice\Desktop\110213076_鄭鈺曄\Q2\obj\Debug\netcoreapp3.1\Q2.pdb
+C:\Users\alice\Desktop\110213076_鄭鈺曄\Q2\obj\Debug\netcoreapp3.1\Q2.genruntimeconfig.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_鄭鈺曄\Q2\obj\Debug\netcoreapp3.1\Q2.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_鄭鈺曄\Q2\obj\Debug\netcoreapp3.1\Q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_鄭鈺曄\Q2\obj\Debug\netcoreapp3.1\Q2.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_鄭鈺曄\Q2\obj\Debug\netcoreapp3.1\Q2.AssemblyInfo.cs
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_鄭鈺曄\Q2\obj\Debug\netcoreapp3.1\Q2.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_鄭鈺曄\Q2\obj\Debug\netcoreapp3.1\Q2.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_鄭鈺曄\Q2\obj\Debug\netcoreapp3.1\Q2.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_鄭鈺曄\Q2\bin\Debug\netcoreapp3.1\Q2.exe
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_鄭鈺曄\Q2\bin\Debug\netcoreapp3.1\Q2.deps.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_鄭鈺曄\Q2\bin\Debug\netcoreapp3.1\Q2.runtimeconfig.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_鄭鈺曄\Q2\bin\Debug\netcoreapp3.1\Q2.runtimeconfig.dev.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_鄭鈺曄\Q2\bin\Debug\netcoreapp3.1\Q2.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_鄭鈺曄\Q2\bin\Debug\netcoreapp3.1\Q2.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_鄭鈺曄\Q2\obj\Debug\netcoreapp3.1\Q2.genruntimeconfig.cache
