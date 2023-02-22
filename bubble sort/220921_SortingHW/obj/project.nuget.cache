@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P65ChQQ1G8XkBxc11UjtDOLQf0kKu+v0S6Pi7rCk+U1gVVwuGfFJqpO4jxHtUQ8buUpXXxrjAOiR6ssYURgttg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alice\\Desktop\\Sophomore\\Data Structure\\220921_SortingHW\\220921_SortingHW.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

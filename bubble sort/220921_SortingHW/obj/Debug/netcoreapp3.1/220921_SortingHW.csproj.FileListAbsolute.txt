@@ -1,0 +1,17 @@
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_SortingHW\bin\Debug\netcoreapp3.1\220921_SortingHW.exe
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_SortingHW\bin\Debug\netcoreapp3.1\220921_SortingHW.deps.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_SortingHW\bin\Debug\netcoreapp3.1\220921_SortingHW.runtimeconfig.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_SortingHW\bin\Debug\netcoreapp3.1\220921_SortingHW.runtimeconfig.dev.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_SortingHW\bin\Debug\netcoreapp3.1\220921_SortingHW.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_SortingHW\bin\Debug\netcoreapp3.1\220921_SortingHW.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_SortingHW\obj\Debug\netcoreapp3.1\220921_SortingHW.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_SortingHW\obj\Debug\netcoreapp3.1\220921_SortingHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_SortingHW\obj\Debug\netcoreapp3.1\220921_SortingHW.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_SortingHW\obj\Debug\netcoreapp3.1\220921_SortingHW.AssemblyInfo.cs
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_SortingHW\obj\Debug\netcoreapp3.1\220921_SortingHW.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_SortingHW\obj\Debug\netcoreapp3.1\220921_SortingHW.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_SortingHW\obj\Debug\netcoreapp3.1\220921_SortingHW.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_SortingHW\obj\Debug\netcoreapp3.1\220921_SortingHW.genruntimeconfig.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_SortingHW\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_SortingHW\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_SortingHW\obj\Debug\netcoreapp3.1\220921_SortingHW.csproj.CopyComplete
