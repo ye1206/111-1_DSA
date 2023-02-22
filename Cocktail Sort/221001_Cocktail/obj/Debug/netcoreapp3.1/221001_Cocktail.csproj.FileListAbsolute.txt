@@ -1,0 +1,17 @@
+C:\Users\alice\Desktop\Sophomore\Data Structure\221001_Cocktail\bin\Debug\netcoreapp3.1\221001_Cocktail.exe
+C:\Users\alice\Desktop\Sophomore\Data Structure\221001_Cocktail\bin\Debug\netcoreapp3.1\221001_Cocktail.deps.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\221001_Cocktail\bin\Debug\netcoreapp3.1\221001_Cocktail.runtimeconfig.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\221001_Cocktail\bin\Debug\netcoreapp3.1\221001_Cocktail.runtimeconfig.dev.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\221001_Cocktail\bin\Debug\netcoreapp3.1\221001_Cocktail.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\221001_Cocktail\bin\Debug\netcoreapp3.1\221001_Cocktail.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\221001_Cocktail\obj\Debug\netcoreapp3.1\221001_Cocktail.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\221001_Cocktail\obj\Debug\netcoreapp3.1\221001_Cocktail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\Sophomore\Data Structure\221001_Cocktail\obj\Debug\netcoreapp3.1\221001_Cocktail.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\221001_Cocktail\obj\Debug\netcoreapp3.1\221001_Cocktail.AssemblyInfo.cs
+C:\Users\alice\Desktop\Sophomore\Data Structure\221001_Cocktail\obj\Debug\netcoreapp3.1\221001_Cocktail.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\221001_Cocktail\obj\Debug\netcoreapp3.1\221001_Cocktail.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\221001_Cocktail\obj\Debug\netcoreapp3.1\221001_Cocktail.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\221001_Cocktail\obj\Debug\netcoreapp3.1\221001_Cocktail.genruntimeconfig.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\221001_Cocktail\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\221001_Cocktail\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\221001_Cocktail\obj\Debug\netcoreapp3.1\221001_Cocktail.csproj.CopyComplete

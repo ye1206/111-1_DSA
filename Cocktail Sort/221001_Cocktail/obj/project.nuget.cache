@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+9nMgRYV/l1rjnJ5Q7jGj1JqSg/5h3YGarfs+JUrnKHeOsw0kgjDXsBt4HnbIsoGc/hdd0AOmCKlgIgvslUGnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alice\\Desktop\\Sophomore\\Data Structure\\221001_Cocktail\\221001_Cocktail.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
