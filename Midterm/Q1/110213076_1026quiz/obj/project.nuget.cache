@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uy+O8lbH6aBUxZ3ZGWfWU5EnIsDR5YV1MhGBHhufQSiTfjA3Ykh28Mmol3LYC/VTRQ5jvNYJdHTuEWFO/hwcGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alice\\Desktop\\Sophomore\\Data Structure\\110213076_鄭鈺曄\\Q1\\110213076_1026quiz\\110213076_1026quiz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,28 @@
+C:\Users\alice\Desktop\110213076_1026quiz\bin\Debug\netcoreapp3.1\110213076_1026quiz.exe
+C:\Users\alice\Desktop\110213076_1026quiz\bin\Debug\netcoreapp3.1\110213076_1026quiz.deps.json
+C:\Users\alice\Desktop\110213076_1026quiz\bin\Debug\netcoreapp3.1\110213076_1026quiz.runtimeconfig.json
+C:\Users\alice\Desktop\110213076_1026quiz\bin\Debug\netcoreapp3.1\110213076_1026quiz.runtimeconfig.dev.json
+C:\Users\alice\Desktop\110213076_1026quiz\bin\Debug\netcoreapp3.1\110213076_1026quiz.dll
+C:\Users\alice\Desktop\110213076_1026quiz\bin\Debug\netcoreapp3.1\110213076_1026quiz.pdb
+C:\Users\alice\Desktop\110213076_1026quiz\obj\Debug\netcoreapp3.1\110213076_1026quiz.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\110213076_1026quiz\obj\Debug\netcoreapp3.1\110213076_1026quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\110213076_1026quiz\obj\Debug\netcoreapp3.1\110213076_1026quiz.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\110213076_1026quiz\obj\Debug\netcoreapp3.1\110213076_1026quiz.AssemblyInfo.cs
+C:\Users\alice\Desktop\110213076_1026quiz\obj\Debug\netcoreapp3.1\110213076_1026quiz.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\110213076_1026quiz\obj\Debug\netcoreapp3.1\110213076_1026quiz.dll
+C:\Users\alice\Desktop\110213076_1026quiz\obj\Debug\netcoreapp3.1\110213076_1026quiz.pdb
+C:\Users\alice\Desktop\110213076_1026quiz\obj\Debug\netcoreapp3.1\110213076_1026quiz.genruntimeconfig.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_鄭鈺曄\Q1\110213076_1026quiz\bin\Debug\netcoreapp3.1\110213076_1026quiz.exe
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_鄭鈺曄\Q1\110213076_1026quiz\bin\Debug\netcoreapp3.1\110213076_1026quiz.deps.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_鄭鈺曄\Q1\110213076_1026quiz\bin\Debug\netcoreapp3.1\110213076_1026quiz.runtimeconfig.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_鄭鈺曄\Q1\110213076_1026quiz\bin\Debug\netcoreapp3.1\110213076_1026quiz.runtimeconfig.dev.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_鄭鈺曄\Q1\110213076_1026quiz\bin\Debug\netcoreapp3.1\110213076_1026quiz.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_鄭鈺曄\Q1\110213076_1026quiz\bin\Debug\netcoreapp3.1\110213076_1026quiz.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_鄭鈺曄\Q1\110213076_1026quiz\obj\Debug\netcoreapp3.1\110213076_1026quiz.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_鄭鈺曄\Q1\110213076_1026quiz\obj\Debug\netcoreapp3.1\110213076_1026quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_鄭鈺曄\Q1\110213076_1026quiz\obj\Debug\netcoreapp3.1\110213076_1026quiz.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_鄭鈺曄\Q1\110213076_1026quiz\obj\Debug\netcoreapp3.1\110213076_1026quiz.AssemblyInfo.cs
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_鄭鈺曄\Q1\110213076_1026quiz\obj\Debug\netcoreapp3.1\110213076_1026quiz.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_鄭鈺曄\Q1\110213076_1026quiz\obj\Debug\netcoreapp3.1\110213076_1026quiz.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_鄭鈺曄\Q1\110213076_1026quiz\obj\Debug\netcoreapp3.1\110213076_1026quiz.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_鄭鈺曄\Q1\110213076_1026quiz\obj\Debug\netcoreapp3.1\110213076_1026quiz.genruntimeconfig.cache
