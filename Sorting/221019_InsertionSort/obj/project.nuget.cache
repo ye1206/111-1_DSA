@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MsZekuco77QiC342/ItiaKqfqexQ3c7nJjbZfj5dZp89PgzR/g1Q0HergrrUKGjkv8bcOxlCpz9BFtMd6Q/rUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alice\\Desktop\\Sophomore\\Data Structure\\221019_InsertionSort\\221019_InsertionSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

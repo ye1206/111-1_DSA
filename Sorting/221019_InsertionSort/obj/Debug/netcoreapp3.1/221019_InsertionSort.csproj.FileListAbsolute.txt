@@ -1,0 +1,17 @@
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_InsertionSort\bin\Debug\netcoreapp3.1\221019_InsertionSort.exe
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_InsertionSort\bin\Debug\netcoreapp3.1\221019_InsertionSort.deps.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_InsertionSort\bin\Debug\netcoreapp3.1\221019_InsertionSort.runtimeconfig.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_InsertionSort\bin\Debug\netcoreapp3.1\221019_InsertionSort.runtimeconfig.dev.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_InsertionSort\bin\Debug\netcoreapp3.1\221019_InsertionSort.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_InsertionSort\bin\Debug\netcoreapp3.1\221019_InsertionSort.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_InsertionSort\obj\Debug\netcoreapp3.1\221019_InsertionSort.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_InsertionSort\obj\Debug\netcoreapp3.1\221019_InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_InsertionSort\obj\Debug\netcoreapp3.1\221019_InsertionSort.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_InsertionSort\obj\Debug\netcoreapp3.1\221019_InsertionSort.AssemblyInfo.cs
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_InsertionSort\obj\Debug\netcoreapp3.1\221019_InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_InsertionSort\obj\Debug\netcoreapp3.1\221019_InsertionSort.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_InsertionSort\obj\Debug\netcoreapp3.1\221019_InsertionSort.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_InsertionSort\obj\Debug\netcoreapp3.1\221019_InsertionSort.genruntimeconfig.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_InsertionSort\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_InsertionSort\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_InsertionSort\obj\Debug\netcoreapp3.1\221019_InsertionSort.csproj.CopyComplete

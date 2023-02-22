@@ -1,0 +1,17 @@
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_SelectionSort\bin\Debug\netcoreapp3.1\221019_SelectionSort.exe
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_SelectionSort\bin\Debug\netcoreapp3.1\221019_SelectionSort.deps.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_SelectionSort\bin\Debug\netcoreapp3.1\221019_SelectionSort.runtimeconfig.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_SelectionSort\bin\Debug\netcoreapp3.1\221019_SelectionSort.runtimeconfig.dev.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_SelectionSort\bin\Debug\netcoreapp3.1\221019_SelectionSort.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_SelectionSort\bin\Debug\netcoreapp3.1\221019_SelectionSort.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_SelectionSort\obj\Debug\netcoreapp3.1\221019_SelectionSort.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_SelectionSort\obj\Debug\netcoreapp3.1\221019_SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_SelectionSort\obj\Debug\netcoreapp3.1\221019_SelectionSort.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_SelectionSort\obj\Debug\netcoreapp3.1\221019_SelectionSort.AssemblyInfo.cs
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_SelectionSort\obj\Debug\netcoreapp3.1\221019_SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_SelectionSort\obj\Debug\netcoreapp3.1\221019_SelectionSort.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_SelectionSort\obj\Debug\netcoreapp3.1\221019_SelectionSort.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_SelectionSort\obj\Debug\netcoreapp3.1\221019_SelectionSort.genruntimeconfig.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_SelectionSort\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_SelectionSort\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\221019_SelectionSort\obj\Debug\netcoreapp3.1\221019_SelectionSort.csproj.CopyComplete
