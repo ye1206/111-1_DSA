@@ -1,0 +1,14 @@
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q5_Sequence\bin\Debug\netcoreapp3.1\Q5_Sequence.exe
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q5_Sequence\bin\Debug\netcoreapp3.1\Q5_Sequence.deps.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q5_Sequence\bin\Debug\netcoreapp3.1\Q5_Sequence.runtimeconfig.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q5_Sequence\bin\Debug\netcoreapp3.1\Q5_Sequence.runtimeconfig.dev.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q5_Sequence\bin\Debug\netcoreapp3.1\Q5_Sequence.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q5_Sequence\bin\Debug\netcoreapp3.1\Q5_Sequence.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q5_Sequence\obj\Debug\netcoreapp3.1\Q5_Sequence.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q5_Sequence\obj\Debug\netcoreapp3.1\Q5_Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q5_Sequence\obj\Debug\netcoreapp3.1\Q5_Sequence.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q5_Sequence\obj\Debug\netcoreapp3.1\Q5_Sequence.AssemblyInfo.cs
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q5_Sequence\obj\Debug\netcoreapp3.1\Q5_Sequence.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q5_Sequence\obj\Debug\netcoreapp3.1\Q5_Sequence.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q5_Sequence\obj\Debug\netcoreapp3.1\Q5_Sequence.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q5_Sequence\obj\Debug\netcoreapp3.1\Q5_Sequence.genruntimeconfig.cache

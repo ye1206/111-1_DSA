@@ -1,0 +1,14 @@
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q6_Square\bin\Debug\netcoreapp3.1\Q6_Square.exe
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q6_Square\bin\Debug\netcoreapp3.1\Q6_Square.deps.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q6_Square\bin\Debug\netcoreapp3.1\Q6_Square.runtimeconfig.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q6_Square\bin\Debug\netcoreapp3.1\Q6_Square.runtimeconfig.dev.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q6_Square\bin\Debug\netcoreapp3.1\Q6_Square.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q6_Square\bin\Debug\netcoreapp3.1\Q6_Square.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q6_Square\obj\Debug\netcoreapp3.1\Q6_Square.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q6_Square\obj\Debug\netcoreapp3.1\Q6_Square.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q6_Square\obj\Debug\netcoreapp3.1\Q6_Square.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q6_Square\obj\Debug\netcoreapp3.1\Q6_Square.AssemblyInfo.cs
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q6_Square\obj\Debug\netcoreapp3.1\Q6_Square.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q6_Square\obj\Debug\netcoreapp3.1\Q6_Square.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q6_Square\obj\Debug\netcoreapp3.1\Q6_Square.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q6_Square\obj\Debug\netcoreapp3.1\Q6_Square.genruntimeconfig.cache

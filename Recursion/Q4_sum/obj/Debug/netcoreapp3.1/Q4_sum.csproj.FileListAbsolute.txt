@@ -1,0 +1,14 @@
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q4_sum\bin\Debug\netcoreapp3.1\Q4_sum.exe
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q4_sum\bin\Debug\netcoreapp3.1\Q4_sum.deps.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q4_sum\bin\Debug\netcoreapp3.1\Q4_sum.runtimeconfig.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q4_sum\bin\Debug\netcoreapp3.1\Q4_sum.runtimeconfig.dev.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q4_sum\bin\Debug\netcoreapp3.1\Q4_sum.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q4_sum\bin\Debug\netcoreapp3.1\Q4_sum.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q4_sum\obj\Debug\netcoreapp3.1\Q4_sum.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q4_sum\obj\Debug\netcoreapp3.1\Q4_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q4_sum\obj\Debug\netcoreapp3.1\Q4_sum.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q4_sum\obj\Debug\netcoreapp3.1\Q4_sum.AssemblyInfo.cs
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q4_sum\obj\Debug\netcoreapp3.1\Q4_sum.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q4_sum\obj\Debug\netcoreapp3.1\Q4_sum.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q4_sum\obj\Debug\netcoreapp3.1\Q4_sum.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q4_sum\obj\Debug\netcoreapp3.1\Q4_sum.genruntimeconfig.cache
