@@ -1,0 +1,14 @@
+C:\Users\alice\Desktop\Sophomore\Data Structure\recursion\bin\Debug\netcoreapp3.1\Q1_Factorial.exe
+C:\Users\alice\Desktop\Sophomore\Data Structure\recursion\bin\Debug\netcoreapp3.1\Q1_Factorial.deps.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\recursion\bin\Debug\netcoreapp3.1\Q1_Factorial.runtimeconfig.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\recursion\bin\Debug\netcoreapp3.1\Q1_Factorial.runtimeconfig.dev.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\recursion\bin\Debug\netcoreapp3.1\Q1_Factorial.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\recursion\bin\Debug\netcoreapp3.1\Q1_Factorial.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\recursion\obj\Debug\netcoreapp3.1\Q1_Factorial.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\recursion\obj\Debug\netcoreapp3.1\Q1_Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\Sophomore\Data Structure\recursion\obj\Debug\netcoreapp3.1\Q1_Factorial.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\recursion\obj\Debug\netcoreapp3.1\Q1_Factorial.AssemblyInfo.cs
+C:\Users\alice\Desktop\Sophomore\Data Structure\recursion\obj\Debug\netcoreapp3.1\Q1_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\recursion\obj\Debug\netcoreapp3.1\Q1_Factorial.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\recursion\obj\Debug\netcoreapp3.1\Q1_Factorial.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\recursion\obj\Debug\netcoreapp3.1\Q1_Factorial.genruntimeconfig.cache
