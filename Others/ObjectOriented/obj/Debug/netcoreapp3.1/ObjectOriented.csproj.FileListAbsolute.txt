@@ -1,0 +1,14 @@
+C:\Users\alice\Desktop\Sophomore\Data Structure\ObjectOriented\bin\Debug\netcoreapp3.1\ObjectOriented.exe
+C:\Users\alice\Desktop\Sophomore\Data Structure\ObjectOriented\bin\Debug\netcoreapp3.1\ObjectOriented.deps.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\ObjectOriented\bin\Debug\netcoreapp3.1\ObjectOriented.runtimeconfig.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\ObjectOriented\bin\Debug\netcoreapp3.1\ObjectOriented.runtimeconfig.dev.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\ObjectOriented\bin\Debug\netcoreapp3.1\ObjectOriented.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\ObjectOriented\bin\Debug\netcoreapp3.1\ObjectOriented.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\ObjectOriented\obj\Debug\netcoreapp3.1\ObjectOriented.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\ObjectOriented\obj\Debug\netcoreapp3.1\ObjectOriented.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\Sophomore\Data Structure\ObjectOriented\obj\Debug\netcoreapp3.1\ObjectOriented.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\ObjectOriented\obj\Debug\netcoreapp3.1\ObjectOriented.AssemblyInfo.cs
+C:\Users\alice\Desktop\Sophomore\Data Structure\ObjectOriented\obj\Debug\netcoreapp3.1\ObjectOriented.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\ObjectOriented\obj\Debug\netcoreapp3.1\ObjectOriented.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\ObjectOriented\obj\Debug\netcoreapp3.1\ObjectOriented.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\ObjectOriented\obj\Debug\netcoreapp3.1\ObjectOriented.genruntimeconfig.cache

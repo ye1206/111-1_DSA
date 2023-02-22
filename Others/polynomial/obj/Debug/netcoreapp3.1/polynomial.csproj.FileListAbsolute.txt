@@ -1,0 +1,17 @@
+C:\Users\alice\Desktop\Sophomore\Data Structure\polynomial\bin\Debug\netcoreapp3.1\polynomial.exe
+C:\Users\alice\Desktop\Sophomore\Data Structure\polynomial\bin\Debug\netcoreapp3.1\polynomial.deps.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\polynomial\bin\Debug\netcoreapp3.1\polynomial.runtimeconfig.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\polynomial\bin\Debug\netcoreapp3.1\polynomial.runtimeconfig.dev.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\polynomial\bin\Debug\netcoreapp3.1\polynomial.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\polynomial\bin\Debug\netcoreapp3.1\polynomial.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\polynomial\obj\Debug\netcoreapp3.1\polynomial.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\polynomial\obj\Debug\netcoreapp3.1\polynomial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\Sophomore\Data Structure\polynomial\obj\Debug\netcoreapp3.1\polynomial.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\polynomial\obj\Debug\netcoreapp3.1\polynomial.AssemblyInfo.cs
+C:\Users\alice\Desktop\Sophomore\Data Structure\polynomial\obj\Debug\netcoreapp3.1\polynomial.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\polynomial\obj\Debug\netcoreapp3.1\polynomial.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\polynomial\obj\Debug\netcoreapp3.1\polynomial.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\polynomial\obj\Debug\netcoreapp3.1\polynomial.genruntimeconfig.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\polynomial\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\polynomial\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\polynomial\obj\Debug\netcoreapp3.1\polynomial.csproj.CopyComplete

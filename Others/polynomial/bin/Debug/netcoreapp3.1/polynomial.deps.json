@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "polynomial/1.0.0": {
+        "dependencies": {
+          "ClassLibrary_Cheng3001": "1.0.0"
+        },
+        "runtime": {
+          "polynomial.dll": {}
+        }
+      },
+      "ClassLibrary_Cheng3001/1.0.0": {
+        "runtime": {
+          "ClassLibrary_Cheng3001.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "polynomial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary_Cheng3001/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

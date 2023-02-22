@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "polynomial", "polynomial.csproj", "{668836A9-2FA8-4B27-8FBA-831363158480}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary_Cheng3001", "..\ClassLibrary_Cheng3001\ClassLibrary_Cheng3001.csproj", "{A3A8D52F-39E2-4B2B-819D-1E948AAB28F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{668836A9-2FA8-4B27-8FBA-831363158480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{668836A9-2FA8-4B27-8FBA-831363158480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{668836A9-2FA8-4B27-8FBA-831363158480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{668836A9-2FA8-4B27-8FBA-831363158480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3A8D52F-39E2-4B2B-819D-1E948AAB28F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A8D52F-39E2-4B2B-819D-1E948AAB28F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A8D52F-39E2-4B2B-819D-1E948AAB28F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A8D52F-39E2-4B2B-819D-1E948AAB28F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9380421-4F6A-4D02-95AE-F42F24246D5F}
+	EndGlobalSection
+EndGlobal

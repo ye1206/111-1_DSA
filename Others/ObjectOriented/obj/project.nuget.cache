@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f1znF4mVTqrCAjbyHXGdDt5SjrYkJn8Uug/QGYb/MD4HdfJkGfjDTTPiRqvk1x4k2ScyW7TJhYlCo2QFW5Ezgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alice\\Desktop\\Sophomore\\Data Structure\\ObjectOriented\\ObjectOriented.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
