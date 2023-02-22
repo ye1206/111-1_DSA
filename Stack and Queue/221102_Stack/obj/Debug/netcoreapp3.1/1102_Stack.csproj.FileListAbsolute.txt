@@ -1,0 +1,17 @@
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Stack\bin\Debug\netcoreapp3.1\1102_Stack.exe
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Stack\bin\Debug\netcoreapp3.1\1102_Stack.deps.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Stack\bin\Debug\netcoreapp3.1\1102_Stack.runtimeconfig.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Stack\bin\Debug\netcoreapp3.1\1102_Stack.runtimeconfig.dev.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Stack\bin\Debug\netcoreapp3.1\1102_Stack.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Stack\bin\Debug\netcoreapp3.1\1102_Stack.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Stack\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Stack\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Stack\obj\Debug\netcoreapp3.1\1102_Stack.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Stack\obj\Debug\netcoreapp3.1\1102_Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Stack\obj\Debug\netcoreapp3.1\1102_Stack.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Stack\obj\Debug\netcoreapp3.1\1102_Stack.AssemblyInfo.cs
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Stack\obj\Debug\netcoreapp3.1\1102_Stack.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Stack\obj\Debug\netcoreapp3.1\1102_Stack.csproj.CopyComplete
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Stack\obj\Debug\netcoreapp3.1\1102_Stack.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Stack\obj\Debug\netcoreapp3.1\1102_Stack.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Stack\obj\Debug\netcoreapp3.1\1102_Stack.genruntimeconfig.cache

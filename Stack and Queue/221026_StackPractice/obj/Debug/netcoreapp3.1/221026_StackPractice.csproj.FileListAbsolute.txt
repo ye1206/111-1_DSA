@@ -1,0 +1,14 @@
+C:\Users\alice\Desktop\Sophomore\Data Structure\221026_StackPractice\bin\Debug\netcoreapp3.1\221026_StackPractice.exe
+C:\Users\alice\Desktop\Sophomore\Data Structure\221026_StackPractice\bin\Debug\netcoreapp3.1\221026_StackPractice.deps.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\221026_StackPractice\bin\Debug\netcoreapp3.1\221026_StackPractice.runtimeconfig.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\221026_StackPractice\bin\Debug\netcoreapp3.1\221026_StackPractice.runtimeconfig.dev.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\221026_StackPractice\bin\Debug\netcoreapp3.1\221026_StackPractice.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\221026_StackPractice\bin\Debug\netcoreapp3.1\221026_StackPractice.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\221026_StackPractice\obj\Debug\netcoreapp3.1\221026_StackPractice.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\221026_StackPractice\obj\Debug\netcoreapp3.1\221026_StackPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\Sophomore\Data Structure\221026_StackPractice\obj\Debug\netcoreapp3.1\221026_StackPractice.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\221026_StackPractice\obj\Debug\netcoreapp3.1\221026_StackPractice.AssemblyInfo.cs
+C:\Users\alice\Desktop\Sophomore\Data Structure\221026_StackPractice\obj\Debug\netcoreapp3.1\221026_StackPractice.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\221026_StackPractice\obj\Debug\netcoreapp3.1\221026_StackPractice.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\221026_StackPractice\obj\Debug\netcoreapp3.1\221026_StackPractice.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\221026_StackPractice\obj\Debug\netcoreapp3.1\221026_StackPractice.genruntimeconfig.cache

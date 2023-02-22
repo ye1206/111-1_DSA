@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BunpUj06ctqdORBVU1W1jaOBIDygAl7TQQd9uI3sf31ARx04Piu0Qpomv/ZRK/gADAvhWObL/iJPXZwUzhfxJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alice\\Desktop\\Sophomore\\Data Structure\\221102_Queue\\221102_Queue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

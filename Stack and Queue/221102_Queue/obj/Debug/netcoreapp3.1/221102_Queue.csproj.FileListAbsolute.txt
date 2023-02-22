@@ -1,0 +1,17 @@
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Queue\bin\Debug\netcoreapp3.1\221102_Queue.exe
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Queue\bin\Debug\netcoreapp3.1\221102_Queue.deps.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Queue\bin\Debug\netcoreapp3.1\221102_Queue.runtimeconfig.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Queue\bin\Debug\netcoreapp3.1\221102_Queue.runtimeconfig.dev.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Queue\bin\Debug\netcoreapp3.1\221102_Queue.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Queue\bin\Debug\netcoreapp3.1\221102_Queue.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Queue\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Queue\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Queue\obj\Debug\netcoreapp3.1\221102_Queue.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Queue\obj\Debug\netcoreapp3.1\221102_Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Queue\obj\Debug\netcoreapp3.1\221102_Queue.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Queue\obj\Debug\netcoreapp3.1\221102_Queue.AssemblyInfo.cs
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Queue\obj\Debug\netcoreapp3.1\221102_Queue.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Queue\obj\Debug\netcoreapp3.1\221102_Queue.csproj.CopyComplete
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Queue\obj\Debug\netcoreapp3.1\221102_Queue.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Queue\obj\Debug\netcoreapp3.1\221102_Queue.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\221102_Queue\obj\Debug\netcoreapp3.1\221102_Queue.genruntimeconfig.cache

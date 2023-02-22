@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VdNq8yjscympRmanaqToIVcCfLTWVMDAvPO0ox8g4EVohRH8mNL4Sng2c5+lCE2SQ5N6+XpU6pwveCKhSwBQ3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alice\\Desktop\\Sophomore\\Data Structure\\221026_StackPractice\\221026_StackPractice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
