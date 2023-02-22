@@ -1,0 +1,14 @@
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q2_Fibonacci\bin\Debug\netcoreapp3.1\Q2_Fibonacci.exe
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q2_Fibonacci\bin\Debug\netcoreapp3.1\Q2_Fibonacci.deps.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q2_Fibonacci\bin\Debug\netcoreapp3.1\Q2_Fibonacci.runtimeconfig.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q2_Fibonacci\bin\Debug\netcoreapp3.1\Q2_Fibonacci.runtimeconfig.dev.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q2_Fibonacci\bin\Debug\netcoreapp3.1\Q2_Fibonacci.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q2_Fibonacci\bin\Debug\netcoreapp3.1\Q2_Fibonacci.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q2_Fibonacci\obj\Debug\netcoreapp3.1\Q2_Fibonacci.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q2_Fibonacci\obj\Debug\netcoreapp3.1\Q2_Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q2_Fibonacci\obj\Debug\netcoreapp3.1\Q2_Fibonacci.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q2_Fibonacci\obj\Debug\netcoreapp3.1\Q2_Fibonacci.AssemblyInfo.cs
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q2_Fibonacci\obj\Debug\netcoreapp3.1\Q2_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q2_Fibonacci\obj\Debug\netcoreapp3.1\Q2_Fibonacci.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q2_Fibonacci\obj\Debug\netcoreapp3.1\Q2_Fibonacci.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\Q2_Fibonacci\obj\Debug\netcoreapp3.1\Q2_Fibonacci.genruntimeconfig.cache
