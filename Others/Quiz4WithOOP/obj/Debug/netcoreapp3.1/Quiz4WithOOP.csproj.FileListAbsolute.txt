@@ -1,0 +1,14 @@
+C:\Users\alice\Desktop\Sophomore\Data Structure\Quiz4WithOOP\bin\Debug\netcoreapp3.1\Quiz4WithOOP.exe
+C:\Users\alice\Desktop\Sophomore\Data Structure\Quiz4WithOOP\bin\Debug\netcoreapp3.1\Quiz4WithOOP.deps.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\Quiz4WithOOP\bin\Debug\netcoreapp3.1\Quiz4WithOOP.runtimeconfig.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\Quiz4WithOOP\bin\Debug\netcoreapp3.1\Quiz4WithOOP.runtimeconfig.dev.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\Quiz4WithOOP\bin\Debug\netcoreapp3.1\Quiz4WithOOP.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\Quiz4WithOOP\bin\Debug\netcoreapp3.1\Quiz4WithOOP.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\Quiz4WithOOP\obj\Debug\netcoreapp3.1\Quiz4WithOOP.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\Quiz4WithOOP\obj\Debug\netcoreapp3.1\Quiz4WithOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\Sophomore\Data Structure\Quiz4WithOOP\obj\Debug\netcoreapp3.1\Quiz4WithOOP.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\Quiz4WithOOP\obj\Debug\netcoreapp3.1\Quiz4WithOOP.AssemblyInfo.cs
+C:\Users\alice\Desktop\Sophomore\Data Structure\Quiz4WithOOP\obj\Debug\netcoreapp3.1\Quiz4WithOOP.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\Quiz4WithOOP\obj\Debug\netcoreapp3.1\Quiz4WithOOP.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\Quiz4WithOOP\obj\Debug\netcoreapp3.1\Quiz4WithOOP.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\Quiz4WithOOP\obj\Debug\netcoreapp3.1\Quiz4WithOOP.genruntimeconfig.cache

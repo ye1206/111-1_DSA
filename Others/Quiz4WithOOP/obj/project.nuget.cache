@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b4/QCy1OTuxHtjzEGcbK7ICOK9FfYhYgqM50Avyg029110F10C7HQp+I9p7CubV1h7pJltF+uD+YNhc3Z76Zkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alice\\Desktop\\Sophomore\\Data Structure\\Quiz4WithOOP\\Quiz4WithOOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
