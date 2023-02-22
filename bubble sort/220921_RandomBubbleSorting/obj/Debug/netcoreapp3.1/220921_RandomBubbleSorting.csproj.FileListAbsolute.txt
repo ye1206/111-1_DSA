@@ -1,0 +1,14 @@
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_RandomBubbleSorting\bin\Debug\netcoreapp3.1\220921_RandomBubbleSorting.exe
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_RandomBubbleSorting\bin\Debug\netcoreapp3.1\220921_RandomBubbleSorting.deps.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_RandomBubbleSorting\bin\Debug\netcoreapp3.1\220921_RandomBubbleSorting.runtimeconfig.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_RandomBubbleSorting\bin\Debug\netcoreapp3.1\220921_RandomBubbleSorting.runtimeconfig.dev.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_RandomBubbleSorting\bin\Debug\netcoreapp3.1\220921_RandomBubbleSorting.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_RandomBubbleSorting\bin\Debug\netcoreapp3.1\220921_RandomBubbleSorting.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_RandomBubbleSorting\obj\Debug\netcoreapp3.1\220921_RandomBubbleSorting.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_RandomBubbleSorting\obj\Debug\netcoreapp3.1\220921_RandomBubbleSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_RandomBubbleSorting\obj\Debug\netcoreapp3.1\220921_RandomBubbleSorting.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_RandomBubbleSorting\obj\Debug\netcoreapp3.1\220921_RandomBubbleSorting.AssemblyInfo.cs
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_RandomBubbleSorting\obj\Debug\netcoreapp3.1\220921_RandomBubbleSorting.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_RandomBubbleSorting\obj\Debug\netcoreapp3.1\220921_RandomBubbleSorting.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_RandomBubbleSorting\obj\Debug\netcoreapp3.1\220921_RandomBubbleSorting.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\220921_RandomBubbleSorting\obj\Debug\netcoreapp3.1\220921_RandomBubbleSorting.genruntimeconfig.cache
