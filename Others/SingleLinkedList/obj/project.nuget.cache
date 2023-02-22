@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b9ivXNTbdVoRzLDhPcvBcyLUWwPrbtJR6AWFwD16TNxaw28C8hF4bvI9T/Tav5cMkUOWnEwpkQbv5CtxfrLRNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alice\\Desktop\\Sophomore\\Data Structure\\SingleLinkedList\\SingleLinkedList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

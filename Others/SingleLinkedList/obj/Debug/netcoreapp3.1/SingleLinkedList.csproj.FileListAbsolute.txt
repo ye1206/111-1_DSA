@@ -1,0 +1,17 @@
+C:\Users\alice\Desktop\Sophomore\Data Structure\SingleLinkedList\bin\Debug\netcoreapp3.1\SingleLinkedList.exe
+C:\Users\alice\Desktop\Sophomore\Data Structure\SingleLinkedList\bin\Debug\netcoreapp3.1\SingleLinkedList.deps.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\SingleLinkedList\bin\Debug\netcoreapp3.1\SingleLinkedList.runtimeconfig.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\SingleLinkedList\bin\Debug\netcoreapp3.1\SingleLinkedList.runtimeconfig.dev.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\SingleLinkedList\bin\Debug\netcoreapp3.1\SingleLinkedList.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\SingleLinkedList\bin\Debug\netcoreapp3.1\SingleLinkedList.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\SingleLinkedList\obj\Debug\netcoreapp3.1\SingleLinkedList.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\SingleLinkedList\obj\Debug\netcoreapp3.1\SingleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\Sophomore\Data Structure\SingleLinkedList\obj\Debug\netcoreapp3.1\SingleLinkedList.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\SingleLinkedList\obj\Debug\netcoreapp3.1\SingleLinkedList.AssemblyInfo.cs
+C:\Users\alice\Desktop\Sophomore\Data Structure\SingleLinkedList\obj\Debug\netcoreapp3.1\SingleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\SingleLinkedList\obj\Debug\netcoreapp3.1\SingleLinkedList.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\SingleLinkedList\obj\Debug\netcoreapp3.1\SingleLinkedList.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\SingleLinkedList\obj\Debug\netcoreapp3.1\SingleLinkedList.genruntimeconfig.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\SingleLinkedList\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\SingleLinkedList\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\SingleLinkedList\obj\Debug\netcoreapp3.1\SingleLinkedList.csproj.CopyComplete
