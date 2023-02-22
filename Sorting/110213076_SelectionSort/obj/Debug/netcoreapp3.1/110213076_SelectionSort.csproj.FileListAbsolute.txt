@@ -1,0 +1,14 @@
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_SelectionSort\bin\Debug\netcoreapp3.1\110213076_SelectionSort.exe
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_SelectionSort\bin\Debug\netcoreapp3.1\110213076_SelectionSort.deps.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_SelectionSort\bin\Debug\netcoreapp3.1\110213076_SelectionSort.runtimeconfig.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_SelectionSort\bin\Debug\netcoreapp3.1\110213076_SelectionSort.runtimeconfig.dev.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_SelectionSort\bin\Debug\netcoreapp3.1\110213076_SelectionSort.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_SelectionSort\bin\Debug\netcoreapp3.1\110213076_SelectionSort.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_SelectionSort\obj\Debug\netcoreapp3.1\110213076_SelectionSort.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_SelectionSort\obj\Debug\netcoreapp3.1\110213076_SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_SelectionSort\obj\Debug\netcoreapp3.1\110213076_SelectionSort.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_SelectionSort\obj\Debug\netcoreapp3.1\110213076_SelectionSort.AssemblyInfo.cs
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_SelectionSort\obj\Debug\netcoreapp3.1\110213076_SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_SelectionSort\obj\Debug\netcoreapp3.1\110213076_SelectionSort.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_SelectionSort\obj\Debug\netcoreapp3.1\110213076_SelectionSort.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\110213076_SelectionSort\obj\Debug\netcoreapp3.1\110213076_SelectionSort.genruntimeconfig.cache
